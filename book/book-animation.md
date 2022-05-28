@@ -1,4 +1,4 @@
-<h1>Etapas para uma criação de animação 3D</h1>
+<h1>Minhas etapas para a criação de uma animação</h1>
         <h2>Planejamento</h2>
         <p>Primeiro temos que pensar o que será a animação, se será de um personagem andando, correndo, ou uma animação de blocos se mexendo, e em seguida, saber em qual instancia que será o subjeto da animação</p>
         <h2>Posição de Keyframes</h2>
